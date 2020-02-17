@@ -1,0 +1,11 @@
+Version Upgrades:
+
+1. Many bugs fixed.
+2. Better navigation links setup system.
+3. Pictures category type added.
+4. Links category fix.
+5. Horizontal Content category fixed.
+6. Members online fix.
+7. Login Block added.
+8. Members list fixed.
+9. Two new themes added.
